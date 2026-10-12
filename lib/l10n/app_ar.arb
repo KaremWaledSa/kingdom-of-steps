@@ -1,0 +1,33 @@
+{
+  "@@locale": "ar",
+
+  "appName": "مملكة الخطوات",
+  "appTagline": "العب وامشي واربح",
+
+  "navHome": "الرئيسية",
+  "navClans": "العشائر",
+  "navChallenges": "التحديات",
+  "navLeaderboard": "المتصدرين",
+  "navProfile": "الملف",
+
+  "homeTitle": "الرئيسية",
+  "clansTitle": "العشائر",
+  "challengesTitle": "التحديات",
+  "leaderboardTitle": "المتصدرين",
+  "profileTitle": "الملف الشخصي",
+
+  "stepsToday": "خطوات اليوم",
+  "dailyGoal": "الهدف اليومي",
+  "distance": "المسافة",
+  "calories": "السعرات",
+
+  "joinClan": "انضم لعشيرة",
+  "createClan": "أنشئ عشيرة",
+  "viewAll": "عرض الكل",
+  "comingSoon": "قريباً",
+
+  "settings": "الإعدادات",
+  "language": "اللغة",
+  "notifications": "الإشعارات",
+  "about": "حول التطبيق"
+}

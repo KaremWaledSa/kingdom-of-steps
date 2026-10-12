@@ -1,0 +1,123 @@
+{
+  "@@locale": "en",
+
+  "appName": "Kingdom of Steps",
+  "@appName": {
+    "description": "The app name"
+  },
+
+  "appTagline": "Play, Walk, and Win",
+  "@appTagline": {
+    "description": "The app tagline"
+  },
+
+  "navHome": "Home",
+  "@navHome": {
+    "description": "Home navigation tab"
+  },
+
+  "navClans": "Clans",
+  "@navClans": {
+    "description": "Clans navigation tab"
+  },
+
+  "navChallenges": "Challenges",
+  "@navChallenges": {
+    "description": "Challenges navigation tab"
+  },
+
+  "navLeaderboard": "Leaderboard",
+  "@navLeaderboard": {
+    "description": "Leaderboard navigation tab"
+  },
+
+  "navProfile": "Profile",
+  "@navProfile": {
+    "description": "Profile navigation tab"
+  },
+
+  "homeTitle": "Home",
+  "@homeTitle": {
+    "description": "Home screen title"
+  },
+
+  "clansTitle": "Clans",
+  "@clansTitle": {
+    "description": "Clans screen title"
+  },
+
+  "challengesTitle": "Challenges",
+  "@challengesTitle": {
+    "description": "Challenges screen title"
+  },
+
+  "leaderboardTitle": "Leaderboard",
+  "@leaderboardTitle": {
+    "description": "Leaderboard screen title"
+  },
+
+  "profileTitle": "Profile",
+  "@profileTitle": {
+    "description": "Profile screen title"
+  },
+
+  "stepsToday": "Steps Today",
+  "@stepsToday": {
+    "description": "Label for today's steps"
+  },
+
+  "dailyGoal": "Daily Goal",
+  "@dailyGoal": {
+    "description": "Label for daily goal"
+  },
+
+  "distance": "Distance",
+  "@distance": {
+    "description": "Label for distance"
+  },
+
+  "calories": "Calories",
+  "@calories": {
+    "description": "Label for calories"
+  },
+
+  "joinClan": "Join Clan",
+  "@joinClan": {
+    "description": "Button text to join a clan"
+  },
+
+  "createClan": "Create Clan",
+  "@createClan": {
+    "description": "Button text to create a clan"
+  },
+
+  "viewAll": "View All",
+  "@viewAll": {
+    "description": "Button text to view all items"
+  },
+
+  "comingSoon": "Coming Soon",
+  "@comingSoon": {
+    "description": "Placeholder text for features not yet implemented"
+  },
+
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings menu item"
+  },
+
+  "language": "Language",
+  "@language": {
+    "description": "Language setting"
+  },
+
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications setting"
+  },
+
+  "about": "About",
+  "@about": {
+    "description": "About menu item"
+  }
+}
